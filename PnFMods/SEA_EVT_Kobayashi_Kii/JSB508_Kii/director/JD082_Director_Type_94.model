@@ -1,0 +1,9 @@
+<JD082_Director_Type_94.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/director/JD082_Director_Type_94_lod1	</parent>
+	<extent>	3.000000	</extent>
+	<materialNames />
+	<nodefullVisual>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/director/JD082_Director_Type_94	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD082_Director_Type_94.model>

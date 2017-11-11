@@ -1,0 +1,17 @@
+<JGM127_410mm45_type3_RF_old_dead.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/gun/JGM127_410mm45_type3_RF_old_dead_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/gun/JGM127_410mm45_type3_RF_old_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/gun/JGM127_410mm45_type3_RF_old_dead_mg.dds	</Texture>
+	</property>
+</JGM127_410mm45_type3_RF_old_dead.mfm>

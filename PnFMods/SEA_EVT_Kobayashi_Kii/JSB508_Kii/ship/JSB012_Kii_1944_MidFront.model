@@ -1,0 +1,9 @@
+<JSB012_Kii_1944_MidFront.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/ship/JSB012_Kii_1944_MidFront_lod1	</parent>
+	<extent>	7.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<nodefullVisual>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/ship/JSB012_Kii_1944_MidFront	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSB012_Kii_1944_MidFront.model>

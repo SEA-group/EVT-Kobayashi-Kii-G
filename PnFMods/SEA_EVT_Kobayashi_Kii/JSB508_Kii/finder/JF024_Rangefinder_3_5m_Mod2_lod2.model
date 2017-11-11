@@ -1,0 +1,8 @@
+<JF024_Rangefinder_3_5m_Mod2_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/finder/JF024_Rangefinder_3_5m_Mod2_lod3	</parent>
+	<extent>	10.000000	</extent>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/finder/JF024_Rangefinder_3_5m_Mod2_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF024_Rangefinder_3_5m_Mod2_lod2.model>

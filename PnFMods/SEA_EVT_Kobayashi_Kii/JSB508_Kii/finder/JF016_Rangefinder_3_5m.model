@@ -1,0 +1,13 @@
+<JF016_Rangefinder_3_5m.model>
+	<extent>	2.000000	</extent>
+	<parent>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/finder/JF016_Rangefinder_3_5m_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.134455 0.000363 -0.065381	</min>
+		<max>	0.125868 0.094919 0.065639	</max>
+	</visibilityBox>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/finder/JF016_Rangefinder_3_5m	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF016_Rangefinder_3_5m.model>

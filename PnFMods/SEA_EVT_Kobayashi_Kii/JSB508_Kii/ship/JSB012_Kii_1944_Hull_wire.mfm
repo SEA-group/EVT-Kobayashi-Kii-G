@@ -1,0 +1,14 @@
+<JSB012_Kii_1944_Hull_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/ship/JSB012_Kii_1944_Hull_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/ship/JSB012_Kii_1944_Hull_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/ship/JSB012_Kii_1944_Hull_mg.dds	</Texture>
+	</property>
+</JSB012_Kii_1944_Hull_wire.mfm>

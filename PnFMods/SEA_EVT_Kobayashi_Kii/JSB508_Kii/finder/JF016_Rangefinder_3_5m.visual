@@ -1,0 +1,38 @@
+<JF016_Rangefinder_3_5m.visual>
+	<boundingBox>
+		<min>	-0.125431 0.000363 -0.065381	</min>
+		<max>	0.125431 0.094919 0.065639	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Rangefinder	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Rangefinder	</node>
+		<geometry>
+			<vertices>	RangefinderShape.vertices	</vertices>
+			<primitive>	RangefinderShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<mfm>	PnFMods/SEA_EVT_Kobayashi_Kii/JSB508_Kii/finder/JF016_Rangefinder_3_5m.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JF016_Rangefinder_3_5m.visual>
